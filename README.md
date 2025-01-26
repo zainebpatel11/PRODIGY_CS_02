@@ -24,23 +24,18 @@ pip install -r requirements.txt
 \`\`\`
 
 ### Steps to Run the Tool
-1. Clone the repository:
-   \`\`\`bash
-   git clone 
-   cd pixel-encryption-tool
-   \`\`\`
 
-2. Run the script:
+1. Run the script:
    \`\`\`bash
    python image.py
    \`\`\`
 
-3. Follow the prompts:
+2. Follow the prompts:
    - Enter the path to the image 
    - Provide an encryption key (e.g., \`123\`).
    - Enter the output path for the encrypted or decrypted image.
 
-4. View the results.
+3. View the results.
    
 ---
 
