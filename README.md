@@ -58,9 +58,9 @@ The tool depends on the following Python libraries:
 - **NumPy**: For mathematical operations on pixel data.
 
 Install them via:
-\`\`\`bash
+
 pip install -r requirements.txt
-\`\`\`
+
 
 ---
 
