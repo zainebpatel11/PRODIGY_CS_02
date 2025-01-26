@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### Steps to Run the Tool
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/pixel-encryption-tool.git
+   git clone 
    cd pixel-encryption-tool
    \`\`\`
 
