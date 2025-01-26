@@ -19,16 +19,16 @@ A Python-based application to encrypt and decrypt images using pixel manipulatio
 
 ### Prerequisites
 Ensure Python is installed on your system. Install the required libraries using the command:
-\`\`\`bash
+
 pip install -r requirements.txt
-\`\`\`
+
 
 ### Steps to Run the Tool
 
 1. Run the script:
-   \`\`\`bash
+  
    python image.py
-   \`\`\`
+  
 
 2. Follow the prompts:
    - Enter the path to the image 
